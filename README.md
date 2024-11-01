@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my GitHub! I'm a SOC Analyst with a passion for cybersecurity, software development, and automation. My journey spans from hands-on roles in IT support to cybersecurity and development, where I tackle challenges through creative problem-solving and coding. Here, you'll find a blend of my personal projects and contributions, focused on security, cloud solutions, and efficient software design.
+Welcome to my GitHub! I'm an individual with a passion for cybersecurity, software development, and automation. My journey spans from hands-on roles in IT support to cybersecurity and development, where I tackle challenges through creative problem-solving and coding. Here, you'll find a blend of my personal projects and contributions, focused on security, cloud solutions, and efficient software design.
 
 ---
 
