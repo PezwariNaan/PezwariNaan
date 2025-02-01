@@ -1,4 +1,4 @@
-# Perry Clayton 💻
+# PezwariNaan 💻
 
 **SOC Analyst | Software Developer | Cybersecurity Enthusiast**
 
@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm an individual with a passion for cybersecurity, softwa
 
 📫 Contact
 
-    Email: perry.inquiry@gmail.com
+    Email: pezwarinaan@gmail.com
     LinkedIn: linkedin.com/in/p4tr1ck-c3
 
 Thank you for stopping by! I'm always open to collaboration, feedback, or just a quick chat about cybersecurity, development, or martial arts. Feel free to explore my repositories and reach out. Let's create something impactful together!
