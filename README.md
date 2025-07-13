@@ -11,9 +11,8 @@ Welcome to my GitHub! I'm an individual with a passion for cybersecurity, softwa
 ### 🛠️ Skills & Technologies
 
 - **Languages:** Python, Rust, C, JavaScript, Bash
-- **Cloud Platforms:** AWS, Azure, Digital Ocean
-- **Tools & Frameworks:** KQL Gymnasium, PuLP, OpenGL, OpenSSL
-- **Specialties:** Security Testing, Reverse Engineering, Database Management, Scripting/Automation
+- **Tools & Frameworks:** Pandas, Scapy, OpenSSL, cURL / URLLib
+- **Specialties:** Bringing The Bantz
 
 
 📫 Contact
